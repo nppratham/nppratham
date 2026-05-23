@@ -1,4 +1,22 @@
-## Hi there 👋
+ Hi, I'm Pratham NP
+
+Aspiring Electronics Engineer passionate about:
+- Hardware diagnostics
+- Embedded systems
+- Electronics projects
+- Mini PC & drone concepts
+
+Currently Learning
+- Embedded systems
+- Arduino & IoT
+- Hardware troubleshooting
+- Python basics
+
+Projects
+- Hardware Diagnostics Notes
+- Mini PC Concepts
+- Electronics Experiments
+- Future Drone Builds## Hi there 👋
 
 <!--
 **nppratham/nppratham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
