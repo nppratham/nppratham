@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratham NP</h1>
 <h3 align="center">A passionate Hardware person from India</h3>
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **C**
 
 - 📫 How to reach me **nppratham@hotmail.com**
 
