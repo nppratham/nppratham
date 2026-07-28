@@ -6,7 +6,15 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nppratham&label=Profile%20Views&color=0e75b6&style=flat" alt="nppratham" />
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,py,go,rust,"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=aws,mysql,azure,cloudflare,kubernetes,"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=matlab,linux,autocad,unreal,netlify,"/>
+  </a>
 </p>
 
 
